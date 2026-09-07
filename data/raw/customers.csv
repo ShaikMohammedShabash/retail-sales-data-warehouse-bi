@@ -1,0 +1,11 @@
+customer_id,customer_name,region,city
+1001,Customer 1001,North,Delhi
+1002,Customer 1002,West,Mumbai
+1003,Customer 1003,South,Bengaluru
+1004,Customer 1004,East,Kolkata
+1005,Customer 1005,West,Pune
+1006,Customer 1006,North,Jaipur
+1007,Customer 1007,South,Hyderabad
+1008,Customer 1008,South,Chennai
+1009,Customer 1009,West,Ahmedabad
+1010,Customer 1010,North,Lucknow

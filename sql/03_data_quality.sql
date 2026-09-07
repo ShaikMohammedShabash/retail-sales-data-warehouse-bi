@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM fact_sales; SELECT customer_id,COUNT(*) FROM fact_sales GROUP BY customer_id HAVING COUNT(*)>1; SELECT COUNT(*) FROM fact_sales WHERE quantity<=0 OR net_sales<0;

@@ -1,0 +1,6 @@
+table,column,description
+fact_sales,order_id,Unique order ID
+fact_sales,customer_id,Customer key
+fact_sales,net_sales,Net revenue
+dim_customer,region,Customer region
+dim_product,category,Product category
